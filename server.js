@@ -20,6 +20,10 @@ var dict = [
   {
     term: "Butter",
     defined: "Follw someone"
+  },
+  {
+    term: "T-Link",
+    defined: "Follw someone"
   }
 ];
 app.use(bodyparser.json());
